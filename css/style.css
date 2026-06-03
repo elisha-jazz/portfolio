@@ -1407,10 +1407,10 @@ body.blog-post article img {
   }
 
   .main-img-mobile {
-    border-radius: 50%;
+    border-radius: 10px;
     width: 270px;
     height: 270px;
-    border: 4px solid #252525;
+    border: 4px solid #34dd0a;
     margin: 0 auto 25px;
     display: block;
   }
@@ -1722,8 +1722,8 @@ body.blog-post article img {
   }
 
   .main-img-mobile {
-    width: 230px;
-    height: 230px;
+    width: 350px;
+    height: 450px;
   }
 
   .home .home-details h1 {
